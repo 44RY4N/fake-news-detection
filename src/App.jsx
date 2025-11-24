@@ -1,3 +1,4 @@
+import React from "react";
 import { useState } from "react";
 import { predictNews } from "./api";
 import ResultCard from "./ResultCard";
